@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+
+.left-side {
+    background-color: aquamarine;
+    width: 35%;
+
+}
+
+.right-side {}
+
+.elephant {
+    width: 100%;
+}
+
+h1 {
+    font-size: 100px;
+}
